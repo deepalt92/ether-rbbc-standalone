@@ -1,0 +1,42 @@
+Start: 1580967710340.9434
+End: 1580967716781.9836
+Transaction number: 9600
+Average block size:  384.0
+Duration: 6441.040283203125
+Throughput: 1490.4424716974331
+
+Start: 1580967866157.8572
+End: 1580967871875.3389
+Transaction number: 9600
+Average block size:  400.0
+Duration: 5717.481689453125
+Throughput: 1679.0609085305591
+
+Start: 1580968061517.1667
+End: 1580968067114.3936
+Transaction number: 9525
+Average block size:  414.1304347826087
+Duration: 5597.226806640625
+Throughput: 1701.7355788940718
+
+Start: 1580968230794.3015
+End: 1580968235712.1538
+Transaction number: 9600
+Average block size:  480.0
+Duration: 4917.852294921875
+Throughput: 1952.071641092772
+
+Start: 1580968456826.8813
+End: 1580968462779.3389
+Transaction number: 9600
+Average block size:  400.0
+Duration: 5952.45751953125
+Throughput: 1612.779254366857
+
+Start: 1580968600361.0356
+End: 1580968605171.5762
+Transaction number: 9600
+Average block size:  480.0
+Duration: 4810.54052734375
+Throughput: 1995.6177368078136
+

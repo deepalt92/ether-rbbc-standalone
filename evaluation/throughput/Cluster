@@ -1,0 +1,29 @@
+## 5 clients for each node
+## each client sends 300 transactions
+
+## Both Throughput and Block Size are measurements of peak performance.
+
+## Throughput
+Cluster size,Threshold=300,Threshold=500
+4,2475.6,2418.1
+8,1897.1,2131.5
+16,1714.1,1823.5
+24,1674,1681.8
+32,1613.1,1494.4
+40,1406.2,1369.7
+48,1058.8,1178.3
+56,988.0,1188.1
+64,880.2,1187.2
+
+
+## Block Size
+Cluster size,Threshold = 300,Threshold = 500
+4,333.3,590.2
+8,564.7,1058.8
+16,1625.0,2400
+24,3700,4928.6
+32,6085.7,6916.7
+40,9500,9750
+48,9942.9,13900
+56,10087.5,13416.7
+64,13414.3,18800.0

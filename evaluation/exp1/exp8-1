@@ -1,0 +1,21 @@
+Start: 1580294285489.75
+End: 1580294305073.5
+Transaction number: 40000
+Average block size:  689.6551724137931
+Duration: 19583.75
+Throughput: 2042.5097338354503
+
+Start: 1580294462911.375
+End: 1580294483951.875
+Transaction number: 40000
+Average block size:  714.2857142857143
+Duration: 21040.5
+Throughput: 1901.095506285497
+
+Start: 1580294598892.4285
+End: 1580294614447.875
+Transaction number: 40000
+Average block size:  754.7169811320755
+Duration: 15555.446533203125
+Throughput: 2571.446593617222
+
