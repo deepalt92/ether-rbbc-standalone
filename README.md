@@ -2,6 +2,7 @@
 
 SRBB VM is an optimized EVM ported from Geth1.10.18 and is the VM component of the Smart Red Belly Blockchain.
 Smart Red Belly Blockchain was accepted at the 37th IEEE International Parallel & Distributed Processing Symposium.
+
 Please find the link to the manuscript at: https://gramoli.github.io/pubs/IPDPS23-SmartRedbelly.pdf
 
 
