@@ -14,6 +14,8 @@ The proceedings will be made available shortly.
 
 Please find the link to our manuscript at: https://gramoli.github.io/pubs/IPDPS23-SmartRedbelly.pdf
 
+The consensus uses an idea that is being patented and acquired by <a href="https://www.redbelly.network/"> Redbelly Networks </a>
+
 
 # Installation
 
