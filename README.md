@@ -1,5 +1,11 @@
 # Smart Red Belly Blockchain - SRBB VM code
 
+<p align="center"> 
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=Go" />
+  </a>
+</p>
+
 SRBB VM is an optimized EVM ported from Geth1.10.18 and is the VM component of the Smart Red Belly Blockchain.
 Smart Red Belly Blockchain was accepted at the 37th IEEE International Parallel & Distributed Processing Symposium.
 The proceedings will be made available shortly.
