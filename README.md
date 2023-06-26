@@ -1,6 +1,6 @@
  # Smart Red Belly Blockchain - SRBB VM code
 
-<p align="center"> 
+<p align="left"> 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=go" />
   </a>
